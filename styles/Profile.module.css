@@ -1,0 +1,16 @@
+.profile{
+    color: rgb(189, 252, 189);
+    min-height: 100vh;
+}
+
+.profile p{
+    color:rgb(2, 100, 100);
+    padding: 20px 20px;
+    margin-right: 1em;
+  }
+
+.profile img{
+    max-width: 200px;
+    max-height: 200px;
+    padding: 20px 20px;
+}
